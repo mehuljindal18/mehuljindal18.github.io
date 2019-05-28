@@ -1,0 +1,20 @@
+body{
+	background-image: url("contact.jpg");
+	width: 100%;
+
+}
+
+
+.form{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-35%, -50%);
+	font-size: 20px;
+}
+
+input{
+    height:300px;
+    width:500px;
+    word-break: break-word;
+}

@@ -21,7 +21,19 @@ font-family: "Arial";
   	justify-content: space-around;
 }
 
+
+.top_image{
+	position: relative;
+  	text-align: center;
+  	color: white;
+
+
 }
-.middle{
-	color: white;
+
+.Mehul_img_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -85%);
+  font-size: 75px;
 }
